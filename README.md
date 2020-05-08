@@ -1,13 +1,11 @@
 # resume
 
----
 ## 링크 
 
 - [Blog](http://blog.5anniversary.dev)
 
 - [Github](https://github.com/5anniversary)
 
----
 ## 경력
 
 [인터마인즈](https://intermindsai.com)
@@ -20,7 +18,7 @@
 - 2017/04/23 ~ 2019/02/02
 - [담당 Project](#공군-담당-프로젝트)
 
----
+
 ## 활동
 
 ### NUTEE
@@ -48,7 +46,7 @@
  - 2020.02 ~
  - [활동](https://github.com/iOS-SOPT-iNNovation)
 
----
+
 ## 프로젝트
 
 ### Study Together
