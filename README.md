@@ -66,7 +66,6 @@
  - 주요 내용 : 배터리 충전 상태를 검사해 사용자가 원하는 App을 켜는  App
  - 역할 : iOS App 개발
  - 사용한 Skill 또는 지식: Swift, iOS
- - Github Repositories : https://github.com/5anniversary/openApplication
  - 결과/성과 : 현재 프로젝트는 최종적으로 클라이언트에게 검수 받았으며 클라이언트 회사에서의 처리 과정이 남아있어 기다리고 있는 상태입니다.</br> 성과는 금전적인 성과와 외주에 대한 성공이 있습니다.
  
 ### NUTEE
