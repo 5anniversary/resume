@@ -49,6 +49,14 @@
 
 ## 프로젝트
 
+### 방문
+
+ - 진행 기간 : 2020.06.06 ~ 2020.06.07 (SOPT 2기 해커톤)
+ - 주요 내용 : 구석 문화생활, 방문 / 관람자가 언더 공연에 펀딩하고 공연 영상을 소비할 수 있는 서비스
+ - 역할 : iOS 앱 개발
+ - 사용한 Skill 또는 지식: iOS, Swift, Git, iOS 어플리케이션에 REST API 연결, 다양한 오픈소스 라이브러리 사용
+ - Github Repositories : [https://github.com/Soptkathon-26th-bangmoon/iOS](https://github.com/Soptkathon-26th-bangmoon/iOS)
+
 ### Study Together
 
  - 진행 기간 : 2020.04 ~ 진행 중
