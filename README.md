@@ -1,5 +1,7 @@
 # resume
 
+iOS, Server, adobe XD 등등 배움에 욕심이 있는 잡식성 개발자 지망생입니다.
+
 ## 링크 
 
 - [Blog](http://blog.5anniversary.dev)
