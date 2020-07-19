@@ -1,6 +1,6 @@
 # resume
 
-iOS, Server, UI/UX, adobe XD 등등 배움에 욕심이 있는 잡식성 개발자 지망생입니다.
+iOS, Server, UI/UX, adobe XD... 끊임없는 배움, 소통을 위한 공부를 하는 잡식성 개발자 지망생입니다.
 
 ## 링크 
 
@@ -23,6 +23,15 @@ iOS, Server, UI/UX, adobe XD 등등 배움에 욕심이 있는 잡식성 개발�
 
 ## 활동
 
+### DDD 4기
+
+- 2020.07.04 ~ 활동 중
+
+### SOPT 26기 
+
+- 비활동 OB
+- 솝커톤 : 2020.06.06 ~ 2020.06.07
+- 2020.06.27 ~ 2020.07.18
 
 ### NUTEE
 
@@ -41,7 +50,7 @@ iOS, Server, UI/UX, adobe XD 등등 배움에 욕심이 있는 잡식성 개발�
 
 ### GIT Study
 
- - 2020.04 ~
+ - 2020.04 ~ 2020.06
  - [활동](https://github.com/soogoon/Github-Cookbook)
  
 ### Swift Study
@@ -54,13 +63,20 @@ iOS, Server, UI/UX, adobe XD 등등 배움에 욕심이 있는 잡식성 개발�
 
 ### ounce
 
+- 진행 기간 : 2020.06.27 ~ 2020.07.18
+- 주요 내용 : 똑똑한 집사들을 위한 기록장 Ounce.
+- 역할 : iOS 앱 개발
+- 사용한 Skill 또는 지식 : Swift, Rest API, Git
+- [Github Repositories](https://github.com/We-are-Ounce/OUNCE_iOS)
+ - 결과/성과 : 협업, 개발 프로세스에대한 경험 / SOPT 26기 최우수상 수상
+
 ### 방문
 
- - 진행 기간 : 2020.06.06 ~ 2020.06.07 (SOPT 2기 해커톤)
+ - 진행 기간 : 2020.06.06 ~ 2020.06.07 (SOPT 26기 해커톤)
  - 주요 내용 : 구석 문화생활, 방문 / 관람자가 언더 공연에 펀딩하고 공연 영상을 소비할 수 있는 서비스
  - 역할 : iOS 앱 개발
  - 사용한 Skill 또는 지식: iOS, Swift, Git, iOS 어플리케이션에 REST API 연결, 다양한 오픈소스 라이브러리 사용
- - Github Repositories : [https://github.com/Soptkathon-26th-bangmoon/iOS](https://github.com/Soptkathon-26th-bangmoon/iOS)
+ - [Github Repositories](https://github.com/Soptkathon-26th-bangmoon/iOS)
 
 ### Study Together
 
@@ -70,7 +86,7 @@ iOS, Server, UI/UX, adobe XD 등등 배움에 욕심이 있는 잡식성 개발�
  - 사용한 Skill 또는 지식: Swift, Vapor, iOS, Git, MySQL
  - 프로젝트를 진행하며 느낀 점
    - Vapor를 공부하며 레퍼런스가 적고 에러가 많아도 좋은 예시를 찾게 되면 충분히 개발이 가능하다고 느끼게 되었습니다.
- - Github Repositories : [https://github.com/SKHU-STUDY](https://github.com/SKHU-STUDY)
+ - [Github Repositories](https://github.com/SKHU-STUDY)
  - 결과/성과 : 진행 중입니다.
  
 ### iOS App 외주
@@ -87,8 +103,8 @@ iOS, Server, UI/UX, adobe XD 등등 배움에 욕심이 있는 잡식성 개발�
  - 주요 내용 : 성공회대 학생을 위한 교내 커뮤니티 App
  - 역할 : iOS App 개발
  - 사용한 Skill 또는 지식: iOS, Swift, Git, iOS 어플리케이션에 REST API 연결, 다양한 오픈소스 라이브러리 사용
- - Github Repositories : https://github.com/team-nutee
- - AppStore : https://url.kr/SmlOFR
+ - [Github Repositories](https://github.com/team-nutee)
+ - [AppStore](https://url.kr/SmlOFR)
  - 결과/성과 : AppStore 배포 / 교내 SW 경진대회 1등 상 / 진행 중
  
 ### Flood
@@ -100,7 +116,7 @@ iOS, Server, UI/UX, adobe XD 등등 배움에 욕심이 있는 잡식성 개발�
  - 프로젝트를 진행하며 느낀 점 
    - 처음으로 어플리케이션 개발 협업에 대한 경험을 가졌습니다.
    - 해당 프로젝트를 진행하며 제가 선택한 iOS 개발에 흥미를 본격적으로 느낄 수 있는 계기가 되었습니다. 
- - Github Repositories : [https://github.com/Flood-SOPT25th](https://github.com/Flood-SOPT25th)
+ - [Github Repositories]
  - 결과/성과 : 협업, 개발 프로세스에대한 경험 / SOPT 25기 대상 수상
 
 ### 이미지인식을 통한 상품 결제 키오스크
